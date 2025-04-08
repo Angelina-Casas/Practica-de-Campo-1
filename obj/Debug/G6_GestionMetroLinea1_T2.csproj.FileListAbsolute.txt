@@ -1,0 +1,14 @@
+C:\Users\Angelina Casas\OneDrive\T2\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\bin\Debug\G6_GestionMetroLinea1_T2.exe.config
+C:\Users\Angelina Casas\OneDrive\T2\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\bin\Debug\G6_GestionMetroLinea1_T2.exe
+C:\Users\Angelina Casas\OneDrive\T2\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\bin\Debug\G6_GestionMetroLinea1_T2.pdb
+C:\Users\Angelina Casas\OneDrive\T2\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\obj\Debug\G6_GestionMetroLinea1_T2.csproj.AssemblyReference.cache
+C:\Users\Angelina Casas\OneDrive\T2\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\obj\Debug\G6_GestionMetroLinea1_T2.csproj.CoreCompileInputs.cache
+C:\Users\Angelina Casas\OneDrive\T2\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\obj\Debug\G6_GestionMetroLinea1_T2.exe
+C:\Users\Angelina Casas\OneDrive\T2\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\obj\Debug\G6_GestionMetroLinea1_T2.pdb
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\bin\Debug\G6_GestionMetroLinea1_T2.exe.config
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\bin\Debug\G6_GestionMetroLinea1_T2.exe
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\bin\Debug\G6_GestionMetroLinea1_T2.pdb
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\obj\Debug\G6_GestionMetroLinea1_T2.csproj.AssemblyReference.cache
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\obj\Debug\G6_GestionMetroLinea1_T2.csproj.CoreCompileInputs.cache
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\obj\Debug\G6_GestionMetroLinea1_T2.exe
+C:\Users\Angelina Casas\OneDrive - Universidad Privada del Norte\Documents\G6_GestionMetroLinea1_T2\G6_GestionMetroLinea1_T2\obj\Debug\G6_GestionMetroLinea1_T2.pdb

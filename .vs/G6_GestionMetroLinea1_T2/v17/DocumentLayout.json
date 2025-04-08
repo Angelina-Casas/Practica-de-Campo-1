@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|c:\\users\\angelina casas\\onedrive - universidad privada del norte\\documents\\g6_gestionmetrolinea1_t2\\g6_gestionmetrolinea1_t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\nodopasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:nodopasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\registrocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:registrocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\reportetarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:reportetarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\reporteestacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:reporteestacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\nodotren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:nodotren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\nodotarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:nodotarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\nodoestacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:nodoestacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\nodohorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:nodohorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\reportetren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:reportetren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroCola.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\RegistroCola.cs",
+              "RelativeDocumentMoniker": "RegistroCola.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\RegistroCola.cs",
+              "RelativeToolTip": "RegistroCola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:06:16.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodoPasajero.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoPasajero.cs",
+              "RelativeDocumentMoniker": "NodoPasajero.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoPasajero.cs",
+              "RelativeToolTip": "NodoPasajero.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:03:39.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8BAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:23:49.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NodoTren.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoTren.cs",
+              "RelativeDocumentMoniker": "NodoTren.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoTren.cs",
+              "RelativeToolTip": "NodoTren.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:24:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NodoTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoTarjeta.cs",
+              "RelativeDocumentMoniker": "NodoTarjeta.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoTarjeta.cs",
+              "RelativeToolTip": "NodoTarjeta.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:29:47.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReporteEstacion.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\ReporteEstacion.cs",
+              "RelativeDocumentMoniker": "ReporteEstacion.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\ReporteEstacion.cs",
+              "RelativeToolTip": "ReporteEstacion.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAADwv1IAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:32:10.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NodoEstacion.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoEstacion.cs",
+              "RelativeDocumentMoniker": "NodoEstacion.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoEstacion.cs",
+              "RelativeToolTip": "NodoEstacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:31:19.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NodoHorario.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoHorario.cs",
+              "RelativeDocumentMoniker": "NodoHorario.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoHorario.cs",
+              "RelativeToolTip": "NodoHorario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:32:54.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\ReporteTarjeta.cs",
+              "RelativeDocumentMoniker": "ReporteTarjeta.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\ReporteTarjeta.cs",
+              "RelativeToolTip": "ReporteTarjeta.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:30:20.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReporteTren.cs",
+              "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\ReporteTren.cs",
+              "RelativeDocumentMoniker": "ReporteTren.cs",
+              "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\ReporteTren.cs",
+              "RelativeToolTip": "ReporteTren.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:25:18.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
