@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\reportetarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:reportetarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\nodopasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:nodopasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\registrocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:registrocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\reportetarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|solutionrelative:reportetarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A02000C1-B511-4950-9DF5-88508AA42358}|G6_GestionMetroLinea1_T2.csproj|C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\reporteestacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegistroCola.cs",
               "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\RegistroCola.cs",
               "RelativeDocumentMoniker": "RegistroCola.cs",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NodoPasajero.cs",
               "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\NodoPasajero.cs",
               "RelativeDocumentMoniker": "NodoPasajero.cs",
@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8BAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T22:23:49.017Z",
               "EditorCaption": ""
@@ -151,15 +151,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ReporteTarjeta.cs",
               "DocumentMoniker": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\ReporteTarjeta.cs",
               "RelativeDocumentMoniker": "ReporteTarjeta.cs",
               "ToolTip": "C:\\Users\\Angelina Casas\\OneDrive - Universidad Privada del Norte\\Documents\\G6_GestionMetroLinea1_T2\\G6_GestionMetroLinea1_T2\\ReporteTarjeta.cs",
               "RelativeToolTip": "ReporteTarjeta.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAIwGwAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T22:30:20.05Z"
+              "WhenOpened": "2024-10-03T22:30:20.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

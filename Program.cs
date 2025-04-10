@@ -24,6 +24,10 @@ namespace G6_GestionMetroLinea1_T2
             Console.WriteLine("\t\t\t██║       ██ ║  ██║╚██╗██║ ██╔══╝   ██╔═╗██║      ██║   ██████║          ");
             Console.WriteLine("\t\t\t██████╗ ██████╗ ██║ ╚████║ ███████╗ ██║ ║██║      ██║   ╚═════╝          ");
             Console.WriteLine("\t\t\t╚═════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚══════╝ ╚═╝ ╚══╝      ╚═╝  (o)   (o)         ");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("\t\t\tBienvenidos pasajeros a la linea 1 de Lima");
+            
             // Imprimir la barra de carga
             Console.WriteLine("\n");
             Console.Write("   \t\t\t   Cargando: ");
